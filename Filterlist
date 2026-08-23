@@ -206,6 +206,7 @@ https://raw.githubusercontent.com/NoahVail/BadIPs/refs/heads/main/leakix.txt
 https://raw.githubusercontent.com/NoahVail/BadIPs/refs/heads/main/shadowserver.txt
 https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/refs/heads/main/ssh-bf.json.txt
 https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/refs/heads/main/full-outgoing-ip-40k.txt
+https://raw.githubusercontent.com/Jack-Sparr0w-2o4/America-Spy-Agency/refs/heads/main/Filter-US-SPY
 https://iplists.firehol.org/files/iblocklist_isp_verizon.netset
 https://iplists.firehol.org/files/iblocklist_isp_aol.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_af.netset

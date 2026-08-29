@@ -149,7 +149,6 @@ https://iplists.firehol.org/files/normshield_all_suspicious.ipset
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_pfblockerng.txt
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Slug-Heads/refs/heads/main/I-spike-them
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Ramit-Clean/refs/heads/main/Ramit
-https://raw.githubusercontent.com/Jack-Sparr0w-2o4/QRadar/refs/heads/main/Filter
 https://raw.githubusercontent.com/BBcan177/minerchk/master/ip-only.txt
 https://iplists.firehol.org/files/xforce_bccs.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/botvrij_dst.ipset
@@ -167,4 +166,5 @@ https://iplists.firehol.org/files/iblocklist_isp_aol.netset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/XBOX-Cheats/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/VR-CHAT-Hacking-Blocklist/refs/heads/main/Muffin
 https://iplists.firehol.org/files/iblocklist_isp_verizon.netset
+https://raw.githubusercontent.com/Jack-Sparr0w-2o4/QRadar/refs/heads/main/Filter
 https://voipbl.org/update

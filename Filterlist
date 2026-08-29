@@ -204,5 +204,6 @@ https://api.greynoise.io/v3/tags/f620e81c-eaf4-477f-8bc4-ec94ca672615/ips?format
 https://api.greynoise.io/v3/tags/537cee16-c4a9-45cd-baf1-75963ab7bdd2/ips?format=txt&token=QWjWOA80SqqYzwKWVB8Q
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cps-collected-iocs.txt
 https://iplists.firehol.org/files/c2_tracker.ipset
+https://iplists.firehol.org/files/haley_ssh.ipset
 https://sigs.interserver.net/ip.txt
 https://voipbl.org/update

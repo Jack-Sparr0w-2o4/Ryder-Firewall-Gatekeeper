@@ -164,6 +164,9 @@ https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/threatfox.txt
 https://iplists.firehol.org/files/iblocklist_isp_aol.netset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/XBOX-Cheats/refs/heads/main/Filter
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_ru.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_na.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/geolite2_country/country_cn.netset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/VR-CHAT-Hacking-Blocklist/refs/heads/main/Muffin
 https://iplists.firehol.org/files/iblocklist_isp_verizon.netset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/QRadar/refs/heads/main/Filter

@@ -120,10 +120,6 @@ https://iplists.firehol.org/files/bbcan177_ms1.netset
 https://iplists.firehol.org/files/bbcan177_ms3.netset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/sslbl.ipset
-https://iplists.firehol.org/files/urandomusto_ntp.ipset
-https://iplists.firehol.org/files/urandomusto_malware.ipset
-https://iplists.firehol.org/files/urandomusto_mailer.ipset
-https://iplists.firehol.org/files/urandomusto_http.ipset
 https://iplists.firehol.org/files/malwaredomainlist.ipset
 https://iplists.firehol.org/files/threatcrowd.ipset
 https://iplists.firehol.org/files/nullsecure.ipset

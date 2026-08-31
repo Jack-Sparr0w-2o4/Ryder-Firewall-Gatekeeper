@@ -33,12 +33,6 @@ https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/ma
 https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt
 https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/heads/master/KillNet-DDoS-Blocklist/ipblocklist.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/yoyo_adservers.ipset
-https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Lists/Threats_Unclassified
-https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Lists/Threats
-https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Lists/Ads
-https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Lists/Trackers
-https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Lists/Probes
-https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Lists/Scanners
 https://secureupdates.checkpoint.com/IP-list/TOR.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/vxvault.ipset
 https://iplists.firehol.org/files/xroxy_7d.ipset

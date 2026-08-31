@@ -72,7 +72,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_sprint.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_att.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_ssh.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_sip.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_bruteforce.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_imap.ipset
@@ -83,7 +82,6 @@ https://lists.blocklist.de/lists/ftp.txt
 https://lists.blocklist.de/lists/imap.txt
 https://lists.blocklist.de/lists/mail.txt
 https://lists.blocklist.de/lists/sip.txt
-https://lists.blocklist.de/lists/ssh.txt
 https://lists.blocklist.de/lists/bruteforcelogin.txt
 https://lists.blocklist.de/lists/bots.txt
 https://lists.blocklist.de/lists/apache.txt
@@ -126,8 +124,6 @@ https://iplists.firehol.org/files/urandomusto_dns.ipset
 https://iplists.firehol.org/files/urandomusto_ftp.ipset
 https://iplists.firehol.org/files/urandomusto_vnc.ipset
 https://iplists.firehol.org/files/urandomusto_unspecified.ipset
-https://iplists.firehol.org/files/urandomusto_telnet.ipset
-https://iplists.firehol.org/files/urandomusto_ssh.ipset
 https://iplists.firehol.org/files/urandomusto_spam.ipset
 https://iplists.firehol.org/files/urandomusto_smb.ipset
 https://iplists.firehol.org/files/urandomusto_rdp.ipset

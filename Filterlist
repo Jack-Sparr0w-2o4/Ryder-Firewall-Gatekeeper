@@ -166,7 +166,6 @@ https://iplists.firehol.org/files/iblocklist_isp_verizon.netset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/America-Spy-Agency/refs/heads/main/Filter-US-SPY
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Canada-Spy-Agency/refs/heads/main/Canada-Spy-Gov
 https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/refs/heads/main/full-outgoing-ip-40k.txt
-https://spydisec.com/medium_confidence_unlimited.txt
 https://iplists.firehol.org/files/cta_cryptowall.ipset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Fast-ASF-Canada/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Worst-Game-Trackers/refs/heads/main/Filterlist
@@ -178,6 +177,5 @@ https://api.greynoise.io/v3/tags/4454bcc7-d416-4bc9-8e85-e860c82369c2/ips?format
 https://api.greynoise.io/v3/tags/f620e81c-eaf4-477f-8bc4-ec94ca672615/ips?format=txt&token=iCo1cIG0SvyJdkEozInOA
 https://api.greynoise.io/v3/tags/537cee16-c4a9-45cd-baf1-75963ab7bdd2/ips?format=txt&token=QWjWOA80SqqYzwKWVB8Q
 https://iplists.firehol.org/files/c2_tracker.ipset
-https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cps-collected-iocs.txt
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/QRadar/refs/heads/main/Filter
 https://voipbl.org/update

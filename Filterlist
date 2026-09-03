@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bru
 https://lists.blocklist.de/lists/ftp.txt
 https://lists.blocklist.de/lists/imap.txt
 https://lists.blocklist.de/lists/mail.txt
-https://lists.blocklist.de/lists/sip.txtt
+https://lists.blocklist.de/lists/sip.txt
 https://lists.blocklist.de/lists/bruteforcelogin.txt
 https://lists.blocklist.de/lists/bots.txt
 https://lists.blocklist.de/lists/apache.txt
@@ -146,7 +146,6 @@ https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/illuminate.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/avanzato_c2.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/threatfox.txt
-https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
 https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/refs/heads/main/global-anti-scam-org-scam-ips.txt
 https://iplists.firehol.org/files/iblocklist_isp_aol.netset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/XBOX-Cheats/refs/heads/main/Filter

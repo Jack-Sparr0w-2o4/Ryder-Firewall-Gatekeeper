@@ -77,7 +77,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blo
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_imap.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_mail.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_bots.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bruteforceblocker.ipset
 https://lists.blocklist.de/lists/ftp.txt
 https://lists.blocklist.de/lists/imap.txt
 https://lists.blocklist.de/lists/mail.txt

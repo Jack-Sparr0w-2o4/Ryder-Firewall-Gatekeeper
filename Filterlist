@@ -48,6 +48,7 @@ https://iplists.firehol.org/files/darklist_de.netset
 https://lists.blocklist.de/lists/strongips.txt
 https://www.blocklist.de/downloads/export-ips_all.txt
 https://www.opendbl.net/lists/bruteforce.list
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bruteforceblocker.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/myip.ipset
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt

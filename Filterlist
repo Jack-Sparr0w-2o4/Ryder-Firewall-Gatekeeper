@@ -22,7 +22,6 @@ https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
 https://iplists.firehol.org/files/malc0de.ipset
 https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
-https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
@@ -48,7 +47,6 @@ https://iplists.firehol.org/files/darklist_de.netset
 https://lists.blocklist.de/lists/strongips.txt
 https://www.blocklist.de/downloads/export-ips_all.txt
 https://www.opendbl.net/lists/bruteforce.list
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bruteforceblocker.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/myip.ipset
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
@@ -82,7 +80,6 @@ https://lists.blocklist.de/lists/ftp.txt
 https://lists.blocklist.de/lists/imap.txt
 https://lists.blocklist.de/lists/mail.txt
 https://lists.blocklist.de/lists/sip.txt
-https://lists.blocklist.de/lists/bruteforcelogin.txt
 https://lists.blocklist.de/lists/bots.txt
 https://lists.blocklist.de/lists/apache.txt
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Spyware/refs/heads/main/Filter
@@ -125,7 +122,6 @@ https://iplists.firehol.org/files/threatcrowd.ipset
 https://iplists.firehol.org/files/nullsecure.ipset
 https://iplists.firehol.org/files/voipbl.netset
 https://iplists.firehol.org/files/normshield_all_ddosbot.ipset
-https://iplists.firehol.org/files/normshield_all_bruteforce.ipset
 https://iplists.firehol.org/files/normshield_all_dnsscan.ipset
 https://iplists.firehol.org/files/normshield_all_webscan.ipset
 https://iplists.firehol.org/files/normshield_all_wormscan.ipset

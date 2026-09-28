@@ -60,14 +60,6 @@ https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/refs/heads
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_rootservers.txt
-https://www.binarydefense.com/banlist.txt
-https://raw.githubusercontent.com/bitwire-it/ipsum-clean/main/ipsum.txt
-https://lists.blocklist.de/lists/ftp.txt
-https://lists.blocklist.de/lists/imap.txt
-https://lists.blocklist.de/lists/mail.txt
-https://lists.blocklist.de/lists/sip.txt
-https://lists.blocklist.de/lists/bots.txt
-https://lists.blocklist.de/lists/apache.txt
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Spyware/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Hijacked/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Spider/refs/heads/main/Filter

@@ -57,9 +57,6 @@ https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/c
 https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_7.txt
 https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/chunk_8.txt
 https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/refs/heads/main/full-outgoing-ip-40k.txt
-https://lists.blocklist.de/lists/strongips.txt
-https://raw.githubusercontent.com/theiren46/blocklist-ipsets/refs/heads/master/shunlist.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/myip.ipset
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_rootservers.txt
